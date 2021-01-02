@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MarkovModel
+comment1.params=
+comment1.target=MarkovModel()
+comment2.params=
+comment2.target=void\ setKLength()
+comment3.params=keylength
+comment3.target=MarkovModel(int)
+comment4.params=seed
+comment4.target=void\ setRandom(int)
+comment5.params=s
+comment5.target=void\ setTraining(java.lang.String)
+comment6.params=numChars
+comment6.target=java.lang.String\ getRandomText(int)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

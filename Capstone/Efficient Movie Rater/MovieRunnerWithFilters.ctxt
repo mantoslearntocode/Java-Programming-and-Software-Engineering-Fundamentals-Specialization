@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=MovieRunnerWithFilters
+comment1.params=testObject
+comment1.target=void\ printAverageRatings(ThirdRatings)
+comment2.params=testObject
+comment2.target=void\ printAverageRatingsByYear(ThirdRatings)
+comment3.params=testObject
+comment3.target=void\ printAverageRatingsByMinutes(ThirdRatings)
+comment4.params=testObject
+comment4.target=void\ printAverageRatingsByGenre(ThirdRatings)
+comment5.params=testObject
+comment5.target=void\ printAverageRatingsByDirectors(ThirdRatings)
+comment6.params=testObject
+comment6.target=void\ printAverageRatingsByYearAfterAndGenre(ThirdRatings)
+comment7.params=testObject
+comment7.target=void\ printAverageRatingsByDirectorsAndMinutes(ThirdRatings)
+comment8.params=allRatings
+comment8.target=void\ printFunction(java.util.ArrayList)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

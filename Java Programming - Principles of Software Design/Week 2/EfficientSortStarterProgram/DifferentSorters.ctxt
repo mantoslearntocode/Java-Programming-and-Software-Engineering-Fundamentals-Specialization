@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=DifferentSorters
+comment1.params=
+comment1.target=void\ sortByLastWordInTitleThenByMagnitude()
+comment2.params=
+comment2.target=void\ sortByTitleAndDepth()
+comment3.params=
+comment3.target=void\ sortWithCompareTo()
+comment4.params=curQE\ number
+comment4.target=void\ printTest(java.util.ArrayList,\ int)
+comment5.params=
+comment5.target=void\ sortByMagnitude()
+comment6.params=
+comment6.target=void\ sortByDistance()
+numComments=7

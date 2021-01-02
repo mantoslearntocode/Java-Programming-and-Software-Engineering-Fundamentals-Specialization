@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LargestQuakes
+comment1.params=
+comment1.target=LargestQuakes()
+comment2.params=
+comment2.target=void\ findLargestQuakes()
+comment3.params=howMany
+comment3.target=java.util.ArrayList\ getLargest(int)
+comment4.params=data
+comment4.target=void\ printQEData(java.util.ArrayList)
+comment5.params=QEData
+comment5.target=int\ indexOfLargest(java.util.ArrayList)
+numComments=6

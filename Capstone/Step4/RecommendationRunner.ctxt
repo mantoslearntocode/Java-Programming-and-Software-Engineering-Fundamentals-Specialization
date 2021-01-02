@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RecommendationRunner
+comment1.params=
+comment1.target=RecommendationRunner()
+comment2.params=
+comment2.target=java.util.ArrayList\ getItemsToRate()
+comment3.params=curValue\ arrStr
+comment3.target=boolean\ hasMovie(java.lang.String,\ java.util.ArrayList)
+comment4.params=webRaterID
+comment4.target=void\ printRecommendationsFor(java.lang.String)
+comment5.params=allRatings
+comment5.target=void\ printFunction(java.util.ArrayList)
+numComments=6
